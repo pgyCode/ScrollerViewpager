@@ -62,7 +62,7 @@ public class ScrollerViewpager extends ViewPager {
     /**
      * 功能：初始化
      * @param views 视图组
-     * @param space 间隔事件
+     * @param space 间隔时间
      * @param listener 监听事件
      */
     public void init(List<View> views, final int space, final OnViewpagerChangeListener listener){
